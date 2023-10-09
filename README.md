@@ -26,12 +26,11 @@ The following REQUIRED features are completed:
 The following STRETCH features are implemented:
 
 - [ ] Implement ViewBinding to reduce boilerplate code and increase efficiency
-- [ ] Add at least one (1) additional functionality
+- [X] Add at least one (1) additional functionality: added a reset button so user can easily start a new calculation without restarting the app
 
 The following EXTRA features are implemented:
 
 - [X] Catch error if user calculates with no input to prevent app crashing
-- [X] Add reset button to reset app after each calculation
 
 ## Video Demo
 
