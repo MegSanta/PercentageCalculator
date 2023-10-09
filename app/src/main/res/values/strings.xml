@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="input_text">Number</string>
+    <string name="title">Percentage Calculator</string>
+    <string name="button_text">Calculate</string>
+    <string name="reset">Restart</string>
+
+</resources>
