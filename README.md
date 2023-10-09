@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='AND101P4.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='./AND101P4.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
